@@ -1,6 +1,6 @@
 ### app-lending-page
 
-![E-commerce website](https://github.com/shrimon347/nature/blob/main/pic.png?raw=true)
+![E-commerce website](https://github.com/shrimon347/app-lending-page/blob/main/Capture.PNG?raw=true)
 
 
 #### Demo: https://shrimon347.github.io/app-lending-page/
